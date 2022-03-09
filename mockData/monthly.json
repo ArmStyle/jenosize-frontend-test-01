@@ -1,0 +1,274 @@
+{
+  "listLike": [
+    {
+      "name": "Supinya Lertwittaya ",
+      "position": "Creative",
+      "dateType": "Daily Report",
+      "amount": "22",
+      "reportType": "liked"
+    },
+    {
+      "name": "Pimpa Suwanpiti",
+      "position": "HR",
+      "dateType": "Weekly Report",
+      "amount": "7",
+      "reportType": "liked"
+    },
+    {
+      "name": "Darunai Sayananon",
+      "position": "Gaphic Designer",
+      "dateType": "Daily Report",
+      "amount": "13",
+      "reportType": "liked"
+    },
+    {
+      "name": "Setha Suwanpiti ",
+      "position": "Developer",
+      "dateType": "Daily Report",
+      "amount": "9",
+      "reportType": "liked"
+    },
+    {
+      "name": "Nat Phungam ",
+      "position": "Developer",
+      "dateType": "Daily Report",
+      "amount": "6",
+      "reportType": "liked"
+    },
+    {
+      "name": "Jiran Wongwarang  ",
+      "position": "Gaphic Designer",
+      "dateType": "Daily Report",
+      "amount": "4",
+      "reportType": "liked"
+    },
+    {
+      "name": "Charan Watcharakij",
+      "position": "Gaphic Designer",
+      "dateType": "Daily Report",
+      "amount": "3",
+      "reportType": "liked"
+    },
+    {
+      "name": "Jiampoj Santiwong ",
+      "position": "Gaphic Designer",
+      "dateType": "Daily Report",
+      "amount": "30",
+      "reportType": "liked"
+    }
+  ],
+  "listComment": [
+    {
+      "name": "Ratima Kaewwilai",
+      "position": "Creative",
+      "dateType": "Daily Report",
+      "amount": "22",
+      "reportType": "comment"
+    },
+    {
+      "name": "Krittin Lertwittaya",
+      "position": "HR",
+      "dateType": "Weekly Report",
+      "amount": "7",
+      "reportType": "comment"
+    },
+    {
+      "name": "Nat Sriwanwilai",
+      "position": "Gaphic Designer",
+      "dateType": "Daily Report",
+      "amount": "13",
+      "reportType": "comment"
+    },
+    {
+      "name": "Setha Suwanpiti ",
+      "position": "Developer",
+      "dateType": "Daily Report",
+      "amount": "9",
+      "reportType": "comment"
+    },
+    {
+      "name": "Nat Phungam ",
+      "position": "Developer",
+      "dateType": "Daily Report",
+      "amount": "6",
+      "reportType": "comment"
+    },
+    {
+      "name": "Tanisorn Gongkasemsab ",
+      "position": "Gaphic Designer",
+      "dateType": "Daily Report",
+      "amount": "4",
+      "reportType": "comment"
+    },
+    {
+      "name": "Papawadee Samransub",
+      "position": "Gaphic Designer",
+      "dateType": "Daily Report",
+      "amount": "3",
+      "reportType": "comment"
+    },
+    {
+      "name": "Non Hongthong",
+      "position": "Gaphic Designer",
+      "dateType": "Daily Report",
+      "amount": "30",
+      "reportType": "comment"
+    }
+  ],
+  "listPoint": [
+    {
+      "name": "Setha Suwanpiti ",
+      "position": "Developer",
+      "dateType": "Daily Report",
+      "amount": "9",
+      "reportType": "point"
+    },
+    {
+      "name": "Nat Phungam ",
+      "position": "Developer",
+      "dateType": "Daily Report",
+      "amount": "6",
+      "reportType": "point"
+    },
+    {
+      "name": "Jiran Wongwarang  ",
+      "position": "Gaphic Designer",
+      "dateType": "Daily Report",
+      "amount": "4",
+      "reportType": "point"
+    },
+    {
+      "name": "Jiampoj Santiwong ",
+      "position": "Gaphic Designer",
+      "dateType": "Daily Report",
+      "amount": "30",
+      "reportType": "point"
+    },
+    {
+      "name": "Supinya Lertwittaya ",
+      "position": "Creative",
+      "dateType": "Daily Report",
+      "amount": "22",
+      "reportType": "point"
+    },
+    {
+      "name": "Pimpa Suwanpiti",
+      "position": "HR",
+      "dateType": "Weekly Report",
+      "amount": "7",
+      "reportType": "point"
+    },
+    {
+      "name": "Charan Watcharakij",
+      "position": "Gaphic Designer",
+      "dateType": "Daily Report",
+      "amount": "3",
+      "reportType": "point"
+    },
+    {
+      "name": "Darunai Sayananon",
+      "position": "Gaphic Designer",
+      "dateType": "Daily Report",
+      "amount": "13",
+      "reportType": "point"
+    }
+  ],
+  "listDiamond": [
+    {
+      "name": "Nat Sriwanwilai",
+      "position": "Gaphic Designer",
+      "dateType": "Daily Report",
+      "amount": "13",
+      "reportType": "diamond"
+    },
+    {
+      "name": "Non Hongthong",
+      "position": "Gaphic Designer",
+      "dateType": "Daily Report",
+      "amount": "30",
+      "reportType": "diamond"
+    },
+    {
+      "name": "Ratima Kaewwilai",
+      "position": "Creative",
+      "dateType": "Daily Report",
+      "amount": "22",
+      "reportType": "diamond"
+    },
+    {
+      "name": "Setha Suwanpiti ",
+      "position": "Developer",
+      "dateType": "Daily Report",
+      "amount": "9",
+      "reportType": "diamond"
+    },
+    {
+      "name": "Nat Phungam ",
+      "position": "Developer",
+      "dateType": "Daily Report",
+      "amount": "6",
+      "reportType": "diamond"
+    },
+    {
+      "name": "Tanisorn Gongkasemsab ",
+      "position": "Gaphic Designer",
+      "dateType": "Daily Report",
+      "amount": "4",
+      "reportType": "diamond"
+    },
+    {
+      "name": "Papawadee Samransub",
+      "position": "Gaphic Designer",
+      "dateType": "Daily Report",
+      "amount": "3",
+      "reportType": "diamond"
+    },
+    {
+      "name": "Krittin Lertwittaya",
+      "position": "HR",
+      "dateType": "Weekly Report",
+      "amount": "7",
+      "reportType": "diamond"
+    }
+  ],
+  "chartLike": {
+    "data": [
+      45, 40, 56, 61, 54, 58, 57, 45, 40, 56, 61, 54, 58, 57, 45, 40, 61, 54,
+      58, 57, 45, 40, 56, 61, 54, 58, 57, 45
+    ],
+    "categories": [
+      1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21,
+      22, 23, 24, 25, 26, 27, 28
+    ]
+  },
+  "chartComment": {
+    "data": [
+      58, 57, 45, 40, 56, 61, 54, 58, 57, 45, 45, 40, 56, 61, 54, 58, 57, 45,
+      40, 56, 61, 54, 58, 57, 45, 40, 61, 54
+    ],
+    "categories": [
+      1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21,
+      22, 23, 24, 25, 26, 27, 28
+    ]
+  },
+  "chartPoint": {
+    "data": [
+      450, 400, 560, 610, 540, 580, 570, 450, 400, 560, 610, 540, 580, 570, 450,
+      400, 610, 540, 580, 570, 450, 400, 560, 610, 540, 580, 570, 450
+    ],
+    "categories": [
+      1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21,
+      22, 23, 24, 25, 26, 27, 28
+    ]
+  },
+  "chartDiamond": {
+    "data": [
+      61, 54, 58, 57, 45, 40, 61, 54, 45, 40, 56, 61, 54, 58, 57, 45, 40, 56,
+      58, 57, 45, 40, 56, 61, 54, 58, 57, 45
+    ],
+    "categories": [
+      1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21,
+      22, 23, 24, 25, 26, 27, 28
+    ]
+  }
+}
